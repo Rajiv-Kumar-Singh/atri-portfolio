@@ -1,0 +1,19 @@
+{
+  "Menu": 1,
+  "Image": 96,
+  "UnorderedList": 6,
+  "Flex": 224,
+  "Div": 14,
+  "Cascader": 3,
+  "Link": 50,
+  "TextBox": 142,
+  "Button": 4,
+  "Modal": 2,
+  "Carousel": 4,
+  "Testimonial": 5,
+  "Overlay": 1,
+  "VerticalMenu": 1,
+  "Step": 2,
+  "Toggle": 1,
+  "Accordion": 9
+}

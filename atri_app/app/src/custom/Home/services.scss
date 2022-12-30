@@ -1,0 +1,53 @@
+.services {
+  &__title {
+    background-image: linear-gradient(
+      108deg,
+      #b16cea 8%,
+      #ff5e69 40%,
+      #ff8a56 77%,
+      #ffa84b 91%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  &__list {
+    ul {
+      li {
+        border-bottom: none !important;
+        div:nth-child(1) {
+          div:nth-child(1) {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+
+  &__applicationList {
+    ul {
+      li {
+        border-bottom: none !important;
+        div:nth-child(1) {
+          div:nth-child(1) {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+
+  &__expectation {
+    ul {
+      li {
+        border-bottom: none !important;
+        div:nth-child(1) {
+          div:nth-child(1) {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}

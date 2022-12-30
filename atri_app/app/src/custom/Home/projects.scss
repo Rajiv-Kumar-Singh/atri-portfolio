@@ -1,0 +1,57 @@
+.project {
+  &__title {
+    background-image: linear-gradient(
+      108deg,
+      #b16cea 8%,
+      #ff5e69 40%,
+      #ff8a56 77%,
+      #ffa84b 91%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: fit-content;
+  }
+
+  &__viewBtn {
+    position: relative;
+
+    &:after {
+      position: absolute;
+      left: 0%;
+      top: 0%;
+      content: '';
+      z-index: -1;
+      right: 0%;
+      bottom: 0%;
+      padding: 20px 30px;
+      background-image: linear-gradient(
+        108deg,
+        #b16cea 8%,
+        #ff5e69 40%,
+        #ff8a56 77%,
+        #ffa84b 91%
+      );
+      transform: translate(0.43em, 0.43em);
+    }
+  }
+
+  &__sliderBox::-webkit-scrollbar {
+    display: none;
+  }
+
+  &__sliderBox {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  &__cardOneLink,
+  &__cardTwoLink,
+  &__cardThreeLink,
+  &__cardFourLink {
+    a {
+      color: #000000 !important;
+      text-decoration: none;
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "hero-image.png": {
+    "mime": "image/png"
+  },
+  "jake.png": {
+    "mime": "image/png"
+  },
+  "client1.png": {
+    "mime": "image/png"
+  },
+  "client2.png": {
+    "mime": "image/png"
+  },
+  "client3.png": {
+    "mime": "image/png"
+  },
+  "client4.png": {
+    "mime": "image/png"
+  },
+  "half-circles.svg": {
+    "mime": "image/svg+xml"
+  },
+  "triangles.svg": {
+    "mime": "image/svg+xml"
+  },
+  "profile.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "branding.jpg": {
+    "mime": "image/jpeg"
+  },
+  "design.jpg": {
+    "mime": "image/jpeg"
+  },
+  "maize.jpg": {
+    "mime": "image/jpeg"
+  },
+  "arrow-white.svg": {
+    "mime": "image/svg+xml"
+  },
+  "holding-phone.jpg": {
+    "mime": "image/jpeg"
+  },
+  "working-man.jpg": {
+    "mime": "image/jpeg"
+  },
+  "desk-setup.jpg": {
+    "mime": "image/jpeg"
+  },
+  "team-work.jpg": {
+    "mime": "image/jpeg"
+  },
+  "books.png": {
+    "mime": "image/png"
+  },
+  "tilt-arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "bag.JPG": {
+    "mime": "image/jpeg"
+  },
+  "john.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "jennifer.jpg": {
+    "mime": "image/jpeg"
+  },
+  "quotes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rocket.svg": {
+    "mime": "image/svg+xml"
+  },
+  "music.svg": {
+    "mime": "image/svg+xml"
+  },
+  "crown.svg": {
+    "mime": "image/svg+xml"
+  },
+  "logo-white.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mail.svg": {
+    "mime": "image/svg+xml"
+  }
+}
